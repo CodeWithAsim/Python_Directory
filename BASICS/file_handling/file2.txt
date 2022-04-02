@@ -1,0 +1,4 @@
+Word count is : 5 My name is Asim Afzal
+Word count is : 6 My age is 22 years old
+Word count is : 4 My nationality is pakistani
+Word count is : 6 I am a software engineering student
